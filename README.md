@@ -6,6 +6,6 @@ I have used numpy/ Dataframes extensively in Python env. and have always wondere
 
 D3 has some of it but very limited.
 
-Due to ingerent limitations of kd some features like operator overriding etc are ompossinle to port.
+Due to inherent limitations of JS some features like operator overriding etc are impossinle to port.
 
 Stay tuned  .. I will leep posting the progress.
