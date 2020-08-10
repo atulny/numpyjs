@@ -8,4 +8,4 @@ D3 has some of it but very limited.
 
 Due to inherent limitations of JS some features like operator overriding etc are impossible to port.
 
-Stay tuned  .. I will leep posting the progress.
+Stay tuned  .. I will keep posting the progress.
